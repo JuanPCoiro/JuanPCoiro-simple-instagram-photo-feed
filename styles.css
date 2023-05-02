@@ -1,0 +1,119 @@
+body {
+    background-color: whitesmoke;
+}
+.header {
+    background-color: white;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.firstDiv {
+    width: 400px;
+    place-items: center;
+    margin: auto;
+    border-style: solid;
+}
+.firstDiv .firstHeader h3 {
+    float: left;
+    display: block;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.firstDiv .firstHeader p {
+    float: right;
+    display: block;
+    color: grey;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+.firstDiv .firstImg img{
+    width: 400px;
+    height: 300px;
+    
+
+}
+.firstDiv .firstP {
+    display: grid;
+    place-items: center;
+}
+
+
+
+/*second publication */
+
+.secondDiv {
+    width: 400px;
+    place-items: center;
+    margin: auto;
+    border-style: solid;
+    margin-top: 40px;
+}
+.secondDiv .secondHeader h3 {
+    float: left;
+    display: block;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.secondDiv .secondHeader p {
+    float: right;
+    display: block;
+    color: grey;
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+.secondDiv .secondImg img{
+    width: 400px;
+    height: 300px;
+    
+
+}
+.secondDiv .secondP {
+    display: grid;
+    place-items: center;
+    margin-left: 5px;
+}
+
+
+/*third div*/
+
+.thirdDiv {
+    width: 400px;
+    place-items: center;
+    margin: auto;
+    border-style: solid;
+    margin-top: 40px;
+}
+.thirdDiv .thirdHeader h3 {
+    float: left;
+    display: block;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.thirdDiv .thirdHeader p {
+    float: right;
+    display: block;
+    color: grey;
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+.thirdDiv .thirdImg img{
+    width: 400px;
+    height: 300px;
+    
+
+}
+.thirdDiv .thirdP {
+    display: grid;
+    place-items: center;
+    margin-left: 5px;
+}
